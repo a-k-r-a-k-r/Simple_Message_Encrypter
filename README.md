@@ -2,7 +2,7 @@
 
 
 ## Introduction
-A simple message encrypter for you. The program code is added on February 14th 2021. As the date represents, it is mainly for the couples out there, to have a secure communication. Most of the daily usage applications like Whatsapp, Snapchat, Instagram, etc.. claims to provide encrypted messaging. But this encryption won't hide your messages from your parents and friends. In this situation, my Simple_Message_Encrypter can help you. This will help you to encrypt the message with a password.
+A simple message encrypter for you. The program code is added on February 14th 2021. As the date represents, it is mainly for the couples out there, to have a secure communication. Most of the daily usage applications like Whatsapp, Snapchat, Instagram, etc.. claims to provide encrypted messaging. But this encryption won't hide your messages from your parents and friends. In this situation, Simple_Message_Encrypter can help you. This will help you to encrypt the message with a password. 
 
 ## SENDER's side
 1) Enter the message that you want to send
